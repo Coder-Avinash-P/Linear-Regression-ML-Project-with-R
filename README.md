@@ -1,1 +1,2 @@
 # Linear-Regression-ML-Project-with-R
+This is the "Bike Sharing Demand Prediction" model, which I tried to solve using Linear Regression(Machine Learning) with R. By exploring this data, I noticed seasonality and "dependent variable" count is increasing over time. This was the difficulty in having good model with Linear Regression. After making the model, I found R2 is low (approx 40%) correlation of independent and dependent variable.
